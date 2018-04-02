@@ -1,6 +1,6 @@
 {
-  "name": "node-demo",
-  "version": "0.0.1",
+  "name": "nodemini",
+  "version": "1.0.0",
   "description": "LambdaSchool Node.js and Express Demo",
   "private": true,
   "main": "server.js",
@@ -9,10 +9,21 @@
   },
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.3",
     "knex": "^0.14.4",
     "sqlite3": "^4.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habib1234731/node-express-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/habib1234731/node-express-mini/issues"
+  },
+  "homepage": "https://github.com/habib1234731/node-express-mini#readme"
 }
